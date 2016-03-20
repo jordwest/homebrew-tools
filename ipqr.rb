@@ -1,4 +1,4 @@
-class IPQR < Formula
+class Ipqr < Formula
   desc "Prints a QR code containing a URL to the current machine"
   homepage "https://github.com/jordwest/ipqr"
   url "https://github.com/jordwest/ipqr/releases/download/1.1.0/darwin_amd64.tar.gz"
