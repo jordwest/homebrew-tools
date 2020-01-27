@@ -1,4 +1,4 @@
-class Ipqr < Formula
+class Prj < Formula
   desc "Navigate between local repos quickly with fuzzy find and git summaries"
   homepage "https://github.com/jordwest/prj"
   url "https://github.com/jordwest/prj/releases/download/0.1.0/prj-0.1.0-x86_64-apple-darwin.tar.gz"
