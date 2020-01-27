@@ -7,7 +7,7 @@ class Prj < Formula
   bottle :unneeded
 
   def install
-    bin.install "prj/prj"
+    bin.install "prj"
   end
 
   test do
